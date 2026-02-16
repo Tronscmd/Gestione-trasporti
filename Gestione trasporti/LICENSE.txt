@@ -1,6 +1,0 @@
-# ---------------------------------------------------------
-# Progetto: Ottimizzatore Trasporti Logistico Puglia & Basilicata
-# Autore:   Mirko Giovinazzo, Vito Manzari
-# Versione: 4.2
-# Copyright © 2026 Tutti i diritti riservati.
-# ---------------------------------------------------------
